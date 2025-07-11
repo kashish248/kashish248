@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain technology along with Cloud computing.**
 
-- 📫 How to reach me **kushwahakashish31@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
